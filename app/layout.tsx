@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Coming soon. | Beautwealt Electronics.",
+  title: "Coming soon. | Midre Visuals.",
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
@@ -18,15 +18,15 @@ export const metadata: Metadata = {
       url: "/apple-touch-icon.png",
     },
   },
-  manifest: "https://beautwealt.com/site.webmanifest",
+  manifest: "https://midrevisuals.com/site.webmanifest",
   openGraph: {
-    title: "Coming soon. | Beautwealt Electronics.",
-    description: "Beautwealt Electronics is coming soon.",
-    url: "https://beautwealt.com",
-    siteName: "Beautwealt Electronics",
+    title: "Coming soon. | Midre Visuals.",
+    description: "Midre Visuals is coming soon.",
+    url: "https://midrevisuals.com",
+    siteName: "Midre Visuals",
     images: [
       {
-        url: "https://beautwealt.com/logo-compressed.png",
+        url: "https://midrevisuals.com/midre.png",
         type: "image/png",
         width: 256,
         height: 256,

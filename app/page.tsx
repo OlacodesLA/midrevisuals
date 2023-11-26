@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import { Facebook, Instagram, Twitter } from "lucide-react";
+import { Facebook, Instagram, Youtube } from "lucide-react";
 import StaggerChildren, { childVariants } from "@/animations/staggerChildren";
 import {
   AnimatePresence,
@@ -17,17 +17,17 @@ export default function Home() {
     {
       id: 1,
       icon: <Facebook />,
-      href: "https://web.facebook.com/groups/2230605173831215/",
+      href: "https://web.facebook.com/groups/midrevisuals/",
     },
     {
       id: 2,
-      icon: <Twitter />,
-      href: "https://twitter.com/BeautWealt_?s=08",
+      icon: <Youtube />,
+      href: "https://www.youtube.com/@midrevisual2025",
     },
     {
       id: 3,
       icon: <Instagram />,
-      href: "https://www.instagram.com/beautwealt_electronics/",
+      href: "https://www.instagram.com/midre_visual/",
     },
   ];
 
@@ -50,8 +50,8 @@ export default function Home() {
             exit={{ opacity: 0 }}
           >
             <img
-              className="object-cover w-40"
-              src="/logo.png"
+              className="object-cover w-32 mb-5"
+              src="/midre.png"
               alt="Beautwealt Logo"
             />
           </motion.div>
