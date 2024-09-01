@@ -33,7 +33,29 @@
     "menu": [
       {
         "label": "Home",
-        "link": "/"
+        "link": "/",
+        "children": [
+          {
+            "label": "Creative Agency",
+            "link": "/",
+            "children": 0
+          },
+          {
+            "label": "Digital Agency",
+            "link": "/index-2",
+            "children": 0
+          },
+          {
+            "label": "Creative Portfolio",
+            "link": "/index-3",
+            "children": 0
+          },
+          {
+            "label": "Fullscreen Parallax",
+            "link": "/index-4",
+            "children": 0
+          }
+        ]
       },
       {
         "label": "About",
