@@ -94,13 +94,13 @@ const Header2 = ({ darkHeader, cartButton }) => {
 										<i className="icon fas fa-chevron-down" />
 										}
 										{item.children != 0 &&
-										<ul className="sub-menu">
-										{item.children.map((subitem, key) => (
-										<li key={`header-nav-sub-item-${key}`}>
-											<Link className="onovo-lnk lnk--active" href={subitem.link}>{subitem.label}</Link>
-										</li>
-										))}
-										</ul>
+										// <ul className="sub-menu">
+										// {item.children.map((subitem, key) => (
+										// <li key={`header-nav-sub-item-${key}`}>
+										// 	<Link className="onovo-lnk lnk--active" href={subitem.link}>{subitem.label}</Link>
+										// </li>
+										// ))}
+										// </ul>
 										}
 									</li>
 									))}
