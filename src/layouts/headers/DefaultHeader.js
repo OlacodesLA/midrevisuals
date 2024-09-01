@@ -116,23 +116,19 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
                               className={item.classes}
                             >
                               <Link
-                                className={
-                                  item.children
-                                    ? "onovo-lnk lnk--active onovo-dropdown-toggle"
-                                    : "onovo-lnk lnk--active"
-                                }
-                                onClick={
-                                  item.children != 0
-                                    ? (e) => clickedMobileMenuItemParent(e)
-                                    : ""
-                                }
+                                className={"onovo-lnk lnk--active"}
+                                // onClick={
+                                //   item.children != 0
+                                //     ? (e) => clickedMobileMenuItemParent(e)
+                                //     : ""
+                                // }
                                 href={item.link}
                               >
                                 {item.label}
                               </Link>
-                              {item.children != 0 && (
+                              {/* {item.children != 0 && (
                                 <i className="icon fas fa-chevron-down" />
-                              )}
+                              )} */}
                               {/* {item.children != 0 && (
                                 <ul className="sub-menu">
                                   {item.children.map((subitem, key) => (
