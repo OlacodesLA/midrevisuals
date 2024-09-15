@@ -1,14 +1,15 @@
 import Data from "@data/sections/pricing.json";
 import Link from "next/link";
 
-const PricingSection = ( { bg, hiddenHeading } ) => {
-    return (
-      <>
-        {/* Onovo Pricing */}
-        <section className={`onovo-section onovo-section-${bg} gap-top-140 gap-bottom-140`}>
-          <div className="container">
-
-            {hiddenHeading == undefined &&
+const PricingSection = ({ bg, hiddenHeading }) => {
+  return (
+    <>
+      {/* Midre Visuals Pricing */}
+      <section
+        className={`onovo-section onovo-section-${bg} gap-top-140 gap-bottom-140`}
+      >
+        <div className="container">
+          {hiddenHeading == undefined && (
             <>
               {/* Heading */}
               <div className="onovo-heading gap-bottom-40">
@@ -16,24 +17,32 @@ const PricingSection = ( { bg, hiddenHeading } ) => {
                   <span>{Data.subtitle}</span>
                 </div>
                 <h2 className="onovo-title-2">
-                  <span dangerouslySetInnerHTML={{__html: Data.title}} />
+                  <span dangerouslySetInnerHTML={{ __html: Data.title }} />
                 </h2>
               </div>
             </>
-            }
+          )}
 
-            {/* Pricing items */}
-            <div className="row gap-row">
-
-              {Data.items.map((item, key) => (
-              <div key={`pricing-item-${key}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+          {/* Pricing items */}
+          <div className="row gap-row">
+            {Data.items.map((item, key) => (
+              <div
+                key={`pricing-item-${key}`}
+                className="col-xs-12 col-sm-12 col-md-6 col-lg-4"
+              >
                 <div className="onovo-pricing">
-                  <div className={item.active == 1 ? "onovo-pricing-item active--default": "onovo-pricing-item"}>
-                    { item.active == 1 &&
-                    <div className="pricing--badge onovo-text-white">
-                      <span>Recommended</span>
-                    </div>
+                  <div
+                    className={
+                      item.active == 1
+                        ? "onovo-pricing-item active--default"
+                        : "onovo-pricing-item"
                     }
+                  >
+                    {item.active == 1 && (
+                      <div className="pricing--badge onovo-text-white">
+                        <span>Recommended</span>
+                      </div>
+                    )}
                     <div className="title">
                       <div className="name">
                         <span>{item.title}</span>
@@ -54,28 +63,38 @@ const PricingSection = ( { bg, hiddenHeading } ) => {
                         <div>
                           <ul>
                             {item.list.map((element, element_key) => (
-                            <li key={`pricinglist${key}-item-${element_key}`} style={{"textDecoration": element.included == 0 ? "line-through" : "none"}}>
-                              <i className="far fa-check-square" />{element.label}
-                            </li>
+                              <li
+                                key={`pricinglist${key}-item-${element_key}`}
+                                style={{
+                                  textDecoration:
+                                    element.included == 0
+                                      ? "line-through"
+                                      : "none",
+                                }}
+                              >
+                                <i className="far fa-check-square" />
+                                {element.label}
+                              </li>
                             ))}
                           </ul>
                         </div>
                       </div>
-                      <Link className="onovo-btn onovo-hover-btn btn--border btn--full btn--color" href={item.button.link}>
+                      <Link
+                        className="onovo-btn onovo-hover-btn btn--border btn--full btn--color"
+                        href={item.button.link}
+                      >
                         <span>{item.button.label}</span>
                       </Link>
                     </div>
                   </div>
                 </div>
               </div>
-              ))}
-
-            </div>
-
+            ))}
           </div>
-        </section>
+        </div>
+      </section>
     </>
-    );
+  );
 };
 
 export default PricingSection;

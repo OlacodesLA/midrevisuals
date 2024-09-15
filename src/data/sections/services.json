@@ -1,22 +1,22 @@
 {
-    "items": [
-        {
-            "image": "/images/serv-icon1.png",
-            "title": "Creation",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
-            "link": "/services/service-1"
-        },
-        {
-            "image": "/images/serv-icon2.png",
-            "title": "Websites",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
-            "link": "/services/service-2"
-        },
-        {
-            "image": "/images/serv-icon3.png",
-            "title": "Studio",
-            "text": "Developing websites is about so much more than marketing. It’s also about aesthetics.",
-            "link": "/services/service-3"
-        }
-    ]
+  "items": [
+    {
+      "image": "/images/serv-icon1.png",
+      "title": "Video Production",
+      "text": "Producing high-quality, engaging videos that drive results.",
+      "link": "/services/service-1"
+    },
+    {
+      "image": "/images/serv-icon2.png",
+      "title": "Websites",
+      "text": "Elevating your online presence with intuitive, visually stunning websites.",
+      "link": "/services/service-2"
+    },
+    {
+      "image": "/images/serv-icon3.png",
+      "title": "Graphic Design",
+      "text": "Bringing your brand to life with innovative, eye-catching designs.",
+      "link": "/services/service-3"
+    }
+  ]
 }

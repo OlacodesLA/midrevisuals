@@ -39,18 +39,18 @@ const HeroSection = () => {
 
   return (
     <>
-      {/* Onovo Hero */}
+      {/* Midre Visuals Hero */}
       <section className="onovo-section onovo-hero">
         <div className="image">
-          {/* <video autoPlay muted={!mute} loop playsInline id="heroVideo">
-						<source src={Data.video} type="video/mp4" />
-					</video> */}
-          <img
+          <video autoPlay muted={!mute} loop playsInline id="heroVideo">
+            <source src={Data.video} type="video/mp4" />
+          </video>
+          {/* <img
             className="hero-img"
             // decoding="async"
             src={Data.video}
             alt={Data.title.text}
-          />
+          /> */}
           <div className="ovrl" style={{ opacity: "0.25" }} />
         </div>
         <div className="container">
