@@ -1,10 +1,10 @@
 ---
 #preview
-title: Flower Store Mobile App
+title: Exceptional Event Experience
 image: /images/project-3-1200x750.jpg
-category: Interactive
-category_slug: interactive
-type: Marketing, Rendering, 3D Design
+category: Elite Event Setup
+category_slug: event-setup
+type: Brand Identity Design, Rendering, 3D Design
 team: Lina Watson
 date: 2022-2023
 

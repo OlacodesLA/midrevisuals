@@ -1,8 +1,8 @@
 ---
 #preview
-title: Market Economy Graphics
+title: Distinctive Brand & 3D Design
 image: /images/project-2-2-1200x982.jpg
-category: Marketing
+category: Brand Identity Design
 category_slug: marketing
 type: UI/UX Design, Mobile Apps, Interactive Design
 team: Alexander Bravo

@@ -3,9 +3,9 @@
 title: Circle Cardboard Concept
 image: /images/project-1-1080x800.jpg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-category: Branding
+category: Visual Storytelling
 category_slug: branding
-type: Illustration, Branding, Poster Design
+type: Illustration, Visual Storytelling, Poster Design
 team: Lina Watson
 date: 2022-2023
 

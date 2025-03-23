@@ -5,7 +5,7 @@ image: /images/project-8-1080x800.jpg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 category: Interactive
 category_slug: interactive
-type: Art Direction, Branding, Interactive Design
+type: Art Direction, Visual Storytelling, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
 

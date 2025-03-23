@@ -1,11 +1,11 @@
 ---
 #preview
-title: '5 Steps to Create an Outstanding Marketing Plan'
+title: '5 Steps to Create an Outstanding Brand Identity Design Plan'
 date: '2022-01-02'
 image: "/images/posts3-1000x667.jpg"
-short: "Ambleton: Behind the Branding of High Calgary's Community Most innovative and successful builders and real estate..."
+short: "Ambleton: Behind the Visual Storytellinggary's Community Most innovative and successful builders and real estate..."
 category:
-    - Marketing
+    - Brand Identity Design
 
 #full details
 author:

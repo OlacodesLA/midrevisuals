@@ -2,7 +2,7 @@
 title: 'Play to Your Strengths and Supercharge Your Business'
 date: '2022-04-02'
 image: "/images/post4-1000x667.jpg"
-short: "Ambleton: Behind the Branding of High Calgary's Community Most innovative and successful builders and real estate..."
+short: "Ambleton: Behind the Visual Storytellingnd Storytellingnd Storytellingnd Storytellingnd Storytelling of High Calgary's Community Most innovative and successful builders and real estate..."
 category:
     - Art
 

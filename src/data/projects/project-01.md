@@ -1,10 +1,10 @@
 ---
 #preview
-title: Museums Art Concept
-image: /images/project-n01-3-1200x900.jpg
-category: Branding
+title: Cinematic Storytelling Mastery
+image: /images/cinematic.png
+category: Visual Storytelling
 category_slug: branding
-type: Art Direction, Branding, Interactive Design
+type: Art Direction, Visual Storytelling, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
 

@@ -3,9 +3,9 @@
 title: Colorful Ice Cream Ornament
 image: /images/project-5-1080x800.jpg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-category: Marketing
+category: Brand Identity Design
 category_slug: marketing
-type: Art Direction, Branding, Interactive Design
+type: Art Direction, Visual Storytelling, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
 

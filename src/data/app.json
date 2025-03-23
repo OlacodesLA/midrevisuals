@@ -6,7 +6,7 @@
     "portfolio": {
       "categories": [
         {
-          "label": "Marketing",
+          "label": "Brand Identity Design",
           "slug": "marketing"
         },
         {
@@ -18,7 +18,7 @@
           "slug": "design"
         },
         {
-          "label": "Branding",
+          "label": "Visual Storytelling",
           "slug": "branding"
         }
       ]

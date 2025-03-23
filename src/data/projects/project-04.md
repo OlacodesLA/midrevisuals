@@ -1,10 +1,10 @@
 ---
 #preview
-title: Business Card Logo
+title: High-Quality Visuals
 image: /images/project-4.jpg
-category: Design
-category_slug: design
-type: Marketing, Rendering, 3D Design
+category: Photography/ Video Services
+category_slug: photography-videography
+type: Brand Identity Design, Rendering, 3D Design
 team: Lina Watson
 date: 2021-2023
 

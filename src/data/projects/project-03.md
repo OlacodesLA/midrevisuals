@@ -1,10 +1,10 @@
 ---
 #preview
-title: Headphones 3D Rendering
-image: /images/project-2-1200x988.jpg
-category: Design
-category_slug: design
-type: UI/UX Design, Branding, Logo Design
+title: Innovate. Build. Scale.
+image: /images/software-development.png
+category: Software Development
+category_slug: software
+type: UI/UX Design, Visual Storytelling, Logo Design
 team: Steven Morrison
 date: 2021-2023
 

@@ -2,7 +2,7 @@
 title: '10 Content Proofreading Tips to Catch More Avoidable'
 date: '2022-02-02'
 image: "/images/post1-1000x667.jpg"
-short: "Ambleton: Behind the Branding of High Calgary's Community Most innovative and successful builders and real estate..."
+short: "Ambleton: Behind the Visual Storytelling of High Calgary's Community Most innovative and successful builders and real estate..."
 category:
     - Copywrighting
 
