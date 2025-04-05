@@ -1,8 +1,8 @@
 ---
 #preview details
-image: /images/team-7-t-min.png
-name: Charlotte Johnson
-role: Seo & Copywriter
+image: /images/tobiloba.png
+name: Okolodana Tobiloba
+role: Content Strategist
 first_letter: E
 social:
   - link: https://facebook.com/
