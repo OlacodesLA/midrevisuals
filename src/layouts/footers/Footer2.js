@@ -105,10 +105,10 @@ const Footer2 = () => {
                     <br />
                     <a
                       className="onovo-lnk"
-                      href="mailto:username@domain.com"
+                      href="mailto:midrevisuals@gmail.com"
                       target="blank"
                     >
-                      username@domain.com
+                      midrevisuals@gmail.com
                     </a>
                   </p>
                 </div>

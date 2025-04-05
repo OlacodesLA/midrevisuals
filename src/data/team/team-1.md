@@ -18,9 +18,6 @@ info:
   - label: Age
     value: 27 Years
 
-  - label: Location
-    value: Baird House, 15-17 St Cross St London EC1N 8UW
-
   - label: Email
     value: thomesjackki@domain.com
 

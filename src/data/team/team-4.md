@@ -17,17 +17,14 @@ social:
 info:
   - label: Age
     value: 35 Years
-  
-  - label: Location
-    value: Baird House, 15-17 St Cross St London EC1N 8UW
-  
+
   - label: Email
     value: charlotte.johnson@domain.com
 
   - label: Phone No
     value: +44 (0) 20 7430 2973
 
-services: 
+services:
   - service-1
   - service-2
   - service-3
@@ -47,7 +44,7 @@ awards:
     value: 19
     image: /images/award3.png
 
-projects: 
+projects:
   - project-05
   - project-06
   - project-07
