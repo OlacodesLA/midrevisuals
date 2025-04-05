@@ -1,6 +1,6 @@
 ---
 #preview details
-image: /images/team-1-t-min.png
+image: /images/oreoluwa.png
 name: Adewale Oreoluwa
 role: Brand Designer
 first_letter: A
