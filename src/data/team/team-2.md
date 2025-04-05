@@ -1,6 +1,6 @@
 ---
 #preview details
-image: /images/team-6-t-min.png
+image: /images/olajide.png
 name: Zaccheaus Olajide
 role: Full-Stack Developer
 first_letter: Z

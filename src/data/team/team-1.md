@@ -1,6 +1,6 @@
 ---
 #preview details
-image: /images/team-2-t-min.png
+image: /images/andrew.png
 name: Salisu Andrew
 role: Creative Director
 first_letter: S
