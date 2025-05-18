@@ -31,17 +31,17 @@ const DefaultFooter = () => {
                 {/* Description */}
                 <div className="onovo-text onovo-text-white">
                   <h5>Get in Touch</h5>
-                  <p style={{ opacity: "0.6" }}>
+                  {/* <p style={{ opacity: "0.6" }}>
                     Baird House, 15-17 St Cross St <br />
                     London EC1N 8UW{" "}
-                  </p>
+                  </p> */}
                   <p style={{ opacity: "0.6" }}>
                     <a
-                      href="tel:+10204302973"
+                      href="https://wa.me/2349131893219"
                       className="onovo-lnk lnk--white"
                       target="_blank"
                     >
-                      + 1 (020) 430 2973
+                      +234 913 189 3219
                     </a>
                     <br />
                     <a

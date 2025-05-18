@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "image": "/images/serv-icon1.png",
+      "image": "/images/cam.gif",
       "title": "Video Production",
       "text": "Producing high-quality, engaging videos that drive results.",
       "link": "/services/service-1"
     },
     {
-      "image": "/images/serv-icon2.png",
+      "image": "/images/website.gif",
       "title": "Websites",
       "text": "Elevating your online presence with intuitive, visually stunning websites.",
       "link": "/services/service-2"

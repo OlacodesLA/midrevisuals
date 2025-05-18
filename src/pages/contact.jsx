@@ -204,11 +204,11 @@ const Contact = () => {
                   <li>
                     <h5>Contact Info</h5>
                     <a
-                      href="tel:+10204302973"
+                      href="https://wa.me/2349131893219"
                       className="onovo-lnk lnk--white"
                       target="_blank"
                     >
-                      + 1 (020) 430 2973
+                      +234 913 189 3219
                     </a>
                     <br />
                     <a

@@ -92,15 +92,15 @@ const Footer2 = () => {
               <div className="col-xs-12 col-sm-12 col-md-6 col-lg-2">
                 {/* Description */}
                 <div className="onovo-text">
-                  Baird House, 15-17 St Cross St <br />
-                  London EC1N 8UW
+                  {/* Baird House, 15-17 St Cross St <br />
+                  London EC1N 8UW */}
                   <p>
                     <a
                       className="onovo-lnk"
-                      href="tel:+4402074302973"
+                      href="https://wa.me/2349131893219"
                       target="blank"
                     >
-                      +44 (0) 20 7430 2973
+                      +234 913 189 3219
                     </a>
                     <br />
                     <a
