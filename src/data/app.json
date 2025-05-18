@@ -200,6 +200,16 @@
         "image": "/images/footer-img-4.jpeg",
         "title": "image",
         "alt": "image"
+      },
+      {
+        "image": "/images/footer-img-5.png",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/footer-img-6.png",
+        "title": "image",
+        "alt": "image"
       }
     ],
     "copy": "© 2023 Midre Visuals. All rights reserved."
