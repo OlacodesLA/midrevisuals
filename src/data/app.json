@@ -99,8 +99,8 @@
         ]
       },
       {
-        "label": "Projects",
-        "link": "/projects",
+        "label": "Services",
+        "link": "/services",
         "children": [
           {
             "label": "Projects Grid",

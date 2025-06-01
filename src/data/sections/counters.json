@@ -1,19 +1,19 @@
 {
-    "items": [
-        {
-            "value": "23",
-            "label": "Team members",
-            "after": ""
-        },
-        {
-            "value": "99",
-            "label": "Completed projects",
-            "after": "+"
-        },
-        {
-            "value": "12",
-            "label": "Lines of code",
-            "after": "M"
-        }
-    ]
+  "items": [
+    {
+      "value": "6",
+      "label": "Years",
+      "after": "+"
+    },
+    {
+      "value": "210",
+      "label": "Completed projects",
+      "after": "+"
+    },
+    {
+      "value": "5",
+      "label": "Specialists",
+      "after": ""
+    }
+  ]
 }
