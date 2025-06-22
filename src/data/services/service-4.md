@@ -2,8 +2,8 @@
 #preview details
 image: "/images/post3.jpg"
 icon: "/images/serv-icon3.png"
-title: "Machine Learning / AI"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+title: "Motion Graphics & Video Ads"
+short: "We craft animated visuals and teaser videos that grab attention and leave a mark."
 
 #full details
 accordion:

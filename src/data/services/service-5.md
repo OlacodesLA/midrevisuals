@@ -1,51 +1,48 @@
 ---
 #preview details
-image: "/images/posts4.jpg"
-icon: "/images/serv-icon4.png"
-title: "Visual Identity"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/service-5.jpg"
+icon: "/images/serv-icon5.png"
+title: "Creative Direction"
+short: "We create content calendars that keep your brand consistent and intentional."
 
 #full details
 accordion:
   enabled: 1
   title: Solving Business Problems
   items:
-    - heading: Secure Management and Workforce?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Lack of Vision or Clarity
+      content: Many clients have ideas but struggle to shape them into a clear direction. We help define your concept, message, and style giving your project a strong creative backbone.
 
-    - heading: Logistics Workforce on Track?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Inconsistent Visual Identity
+      content: Without guidance, brands often look disjointed across platforms or content types. We create visual frameworks (like mood boards and style guides) to keep everything cohesive and recognizable.
 
-    - heading: Online Courses & Certification?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Disorganized Production Process
+      content: Projects can fall apart without structure. We bring order with pre-production planning, storyboarding, and scene breakdowns so your team knows exactly what to shoot and why.
 
-    - heading: Figures and data representative of an organization's?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Uninspiring or Generic Content
+      content: Sometimes, the final output feels flat or cliché. We introduce fresh, tailored creative ideas that align with your audience, culture, and goals making your content unique and memorable.
+
+    - heading: Wasted Time and Budget
+      content: When creative decisions are unclear, teams redo work, overspend, or miss deadlines. Our direction ensures that every step from planning to post is intentional, saving time and resources.
 
 additional:
   enabled: 1
   content: "
     <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
-		<ul>
-      <li>
-        Better defined projects, reducing risk.
-      </li>
-      <li>
-        We provide legislative compliance.
-      </li>
-      <li>
-        Cost savings by getting expert advice.
-      </li>
-      <li>
-        Realistic pricing and project timescales.
-      </li>
-		</ul>
+		<p>Many brands, churches, and creative teams have strong ideas but without the right direction, those ideas can fall flat. That's where we come in. Through our Creative Direction service, we help you turn scattered thoughts into powerful visual stories. Here are some of the biggest problems we solve for our clients:</p>
+<ul>
+  <li>Concept Development</li>
+  <li>Discovery & Alignment</li>
+  <li>Collaboration & Communication</li>
+  <li>Creative Oversight</li>
+  <li>Final Delivery & Evaluation</li>
+</ul>
+
   "
 ---
 
-### Behind the Visual Storytelling of High Calgary’s Community
+### Creative Direction
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+Creative Direction is where vision meets execution. At Midre Visuals, we don't just deliver great content we help you build the big idea. From concept development to final delivery, we guide every creative decision to ensure your brand, campaign, or event feels intentional, cohesive, and impactful.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
+Whether it's a church anniversary, product launch, or cinematic shoot, we make sure every element visuals, tone, storytelling, and aesthetics works together to achieve your goal.

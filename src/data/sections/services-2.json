@@ -8,7 +8,7 @@
   },
   "items": [
     {
-      "icon": "/images/serv-icon4.png",
+      "icon": "/images/cam.gif",
       "title": "VisualStorytelling",
       "list": [
         "Brand Strategy",
@@ -20,7 +20,7 @@
       "link": "/services/service-1"
     },
     {
-      "icon": "/images/serv-icon5.png",
+      "icon": "/images/website.gif",
       "title": "Web Campaigns",
       "list": [
         "Creative Strategy",
@@ -32,7 +32,7 @@
       "link": "/services/service-2"
     },
     {
-      "icon": "/images/serv-icon6.png",
+      "icon": "/new/computer.gif",
       "title": "UX / UI Design",
       "list": [
         "Native and Web Apps",

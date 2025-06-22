@@ -1,51 +1,55 @@
 ---
 #preview details
-image: "/images/posts3.jpg"
+image: "/images/service-2.jpg"
 icon: "/images/serv-icon1.png"
 title: "Social Media Campaign"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+short: "We design bold, platform-ready visuals that boost visibility and drive engagement."
 
 #full details
 accordion:
   enabled: 1
   title: Solving Business Problems
   items:
-    - heading: Secure Management and Workforce?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Low Online Visibility
+      content: Many organizations struggle to reach new audiences online. We create targeted campaigns that boost visibility, helping you show up where your audience already is — and stand out.
 
-    - heading: Logistics Workforce on Track?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Inconsistent or Unattractive Content
+      content: Posting randomly with mixed visuals hurts your brand. We create cohesive, scroll-stopping designs that are consistent across every post, story, and platform.
 
-    - heading: Online Courses & Certification?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Lack of Engagement
+      content: If your likes, comments, and shares are low, it's not just the algorithm — it's the content strategy. We craft engaging visuals and messaging that prompt interaction and connection.
 
-    - heading: Figures and data representative of an organization's?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: No Strategy or Structure
+      content: Many campaigns fail because there's no plan behind them. We develop structured rollouts — with countdowns, teaser drops, content calendars, and purpose-driven posts — so you never miss a moment.
+
+    - heading: Poor Event Turnout or Brand Awareness
+      content: Without strong social promotion, people won't show up or even know who you are. Our campaigns help build anticipation, awareness, and turnout — long before the event starts or the brand launches.
 
 additional:
   enabled: 1
   content: "
     <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
+		<p>When clients hire us to handle their social media campaigns, they come with high hopes and for good reason. In a world where attention is currency, they expect creativity, clarity, and measurable results. Here are the top expectations we consistently deliver on.</p>
 		<ul>
-      <li>
-        Better defined projects, reducing risk.
-      </li>
-      <li>
-        We provide legislative compliance.
-      </li>
-      <li>
-        Cost savings by getting expert advice.
-      </li>
-      <li>
-        Realistic pricing and project timescales.
-      </li>
+        <li>
+          Creative, Eye-Catching Content
+        </li>
+        <li>
+          Consistent Posting & Brand Alignment
+        </li>
+        <li>
+          Strong Engagement & Growth
+        </li>
+        <li>
+          Strategic Planning & Rollouts
+        </li>
+        <li>
+          Professional Delivery & On-Time Execution
+        </li>
 		</ul>
   "
 ---
 
-### Behind the Visual Storytelling Calgary’s Community
+### Social Media Campaigns
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
-
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
+In today's digital world, content alone isn't enough strategy is everything. At Midre Visuals, we craft social media campaigns that don't just look good, they perform. Whether you're launching an event, promoting a brand, or growing your online presence, we help you plan, design, and execute visuals that captivate your audience and drive real engagement.
