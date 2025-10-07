@@ -27,27 +27,26 @@ accordion:
 
 additional:
   enabled: 1
-  content: "
+  content: |
     <h3>Highest Expectations</h3>
-		<p>When clients hire us to handle their social media campaigns, they come with high hopes and for good reason. In a world where attention is currency, they expect creativity, clarity, and measurable results. Here are the top expectations we consistently deliver on.</p>
-		<ul>
-        <li>
-          Creative, Eye-Catching Content
-        </li>
-        <li>
-          Consistent Posting & Brand Alignment
-        </li>
-        <li>
-          Strong Engagement & Growth
-        </li>
-        <li>
-          Strategic Planning & Rollouts
-        </li>
-        <li>
-          Professional Delivery & On-Time Execution
-        </li>
-		</ul>
-  "
+    <p>When clients hire us to handle their social media campaigns, they come with high hopes and for good reason. In a world where attention is currency, they expect creativity, clarity, and measurable results. Here are the top expectations we consistently deliver on.</p>
+    <ul>
+      <li>
+        Creative, Eye-Catching Content
+      </li>
+      <li>
+        Consistent Posting & Brand Alignment
+      </li>
+      <li>
+        Strong Engagement & Growth
+      </li>
+      <li>
+        Strategic Planning & Rollouts
+      </li>
+      <li>
+        Professional Delivery & On-Time Execution
+      </li>
+    </ul>
 ---
 
 ### Social Media Campaigns

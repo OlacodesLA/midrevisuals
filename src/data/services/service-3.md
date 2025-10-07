@@ -27,18 +27,16 @@ accordion:
 
 additional:
   enabled: 1
-  content: "
+  content: |
     <h3>Highest Expectations</h3>
-		<p>We refer to the top-tier standards that clients, creative directors, marketers, and business stakeholders expect from a well-developed content strategy and execution plan. These expectations go beyond simply "posting consistently"  they reflect a demand for content that is strategic, high-impact, efficient, and measurable:</p>
-<ul>
-  <li>Strategic Alignment</li>
-  <li>Consistent Brand Voice & Visual Identity</li>
-  <li>High-Quality & Original Content</li>
-  <li>Platform-Optimized Formats</li>
-  <li>Content Calendar Discipline</li>
-</ul>
-
-  "
+    <p>We refer to the top-tier standards that clients, creative directors, marketers, and business stakeholders expect from a well-developed content strategy and execution plan. These expectations go beyond simply "posting consistently"  they reflect a demand for content that is strategic, high-impact, efficient, and measurable:</p>
+    <ul>
+      <li>Strategic Alignment</li>
+      <li>Consistent Brand Voice & Visual Identity</li>
+      <li>High-Quality & Original Content</li>
+      <li>Platform-Optimized Formats</li>
+      <li>Content Calendar Discipline</li>
+    </ul>
 ---
 
 ### Creative Planning

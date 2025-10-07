@@ -24,10 +24,10 @@ accordion:
 
 additional:
   enabled: 1
-  content: "
+  content: |
     <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
-		<ul>
+    <p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
+    <ul>
       <li>
         Better defined projects, reducing risk.
       </li>
@@ -40,8 +40,7 @@ additional:
       <li>
         Realistic pricing and project timescales.
       </li>
-		</ul>
-  "
+    </ul>
 ---
 
 ### Behind the Visual Storytelling of Midre Visuals

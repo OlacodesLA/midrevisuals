@@ -1,36 +1,35 @@
 ---
-title: 'Play to Your Strengths and Supercharge Your Business'
-date: '2022-02-02'
+title: "Play to Your Strengths and Supercharge Your Business"
+date: "2022-02-02"
 image: "/images/post4-1000x667.jpg"
 short: "Ambleton: Behind the Visual Storytelling of High Calgary's Community Most innovative and successful builders and real estate..."
 category:
-    - Art
+  - Art
 
 #full details
 author:
-    name: "Jane Meldrum"
-    avatar: "/img/blog-author-img.jpg"
+  name: "Jane Meldrum"
+  avatar: "/img/blog-author-img.jpg"
 
 gallery:
-    enabled: 1
-    items:
-        - image: /images/post1.jpg
-          alt: "image"
+  enabled: 1
+  items:
+    - image: /images/post1.jpg
+      alt: "image"
 
-        - image: /images/post6.jpg
-          alt: "image"
+    - image: /images/post6.jpg
+      alt: "image"
 
-        - image: /images/post3.jpg
-          alt: "image"
+    - image: /images/post3.jpg
+      alt: "image"
 
-    cols: 3 # 2 or 3
+  cols: 3 # 2 or 3
 
 additional:
-    enabled: 1
-    content: "
-        <h5>Voluptatem odit ullam veritatis</h5>
-        <p>Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.</p>
-    "
+  enabled: 1
+  content: |
+    <h5>Voluptatem odit ullam veritatis</h5>
+    <p>Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.</p>
 ---
 
 Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.

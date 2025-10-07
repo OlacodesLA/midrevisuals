@@ -1,34 +1,33 @@
 ---
-title: '5 Steps to Create an Outstanding Brand Identity Design Plan'
-date: '2022-03-02'
+title: "5 Steps to Create an Outstanding Brand Identity Design Plan"
+date: "2022-03-02"
 image: "/images/posts3-1000x667.jpg"
 short: "Ambleton: Behind the Visual Storytelling of High Calgary's Community Most innovative and successful builders and real estate..."
 category:
-    - Brand Identity Design
+  - Brand Identity Design
 
 #full details
 author:
-    name: "Jane Meldrum"
-    avatar: "/img/blog-author-img.jpg"
+  name: "Jane Meldrum"
+  avatar: "/img/blog-author-img.jpg"
 
 gallery:
-    enabled: 1
-    items:
-        - image: /images/post1.jpg
-          alt: "image"
+  enabled: 1
+  items:
+    - image: /images/post1.jpg
+      alt: "image"
 
-        - image: /images/post6.jpg
-          alt: "image"
+    - image: /images/post6.jpg
+      alt: "image"
 
-    cols: 2 # 2 or 3
+  cols: 2 # 2 or 3
 
 additional:
-    enabled: 1
-    content: "
-        <h3>Professionals and relevant experience!</h3>
-        <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
-        <p>Global demand for a Circular Economy solution is already high, with global concrete manufacturers engaging with us to develop specific testing programmes.</p>
-    "
+  enabled: 1
+  content: |
+    <h3>Professionals and relevant experience!</h3>
+    <p>Our immediate goal is to complete the testing phase and achieve the certification, which will allow us to bring our product to market by the end of the year. We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
+    <p>Global demand for a Circular Economy solution is already high, with global concrete manufacturers engaging with us to develop specific testing programmes.</p>
 ---
 
 Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.

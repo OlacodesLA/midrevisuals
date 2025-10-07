@@ -1,37 +1,36 @@
 ---
 #preview
-title: '10 Content Proofreading Tips to Catch More Avoidable'
-date: '2022-01-02'
+title: "10 Content Proofreading Tips to Catch More Avoidable"
+date: "2022-01-02"
 image: "/images/post1-1000x667.jpg"
 short: "Ambleton: Behind the Visual Storytellingnd Storytellingnd Storytellingnd Storytellingnd Storytelling of High Calgary's Community Most innovative and successful builders and real estate..."
 category:
-    - Copywrighting
+  - Copywrighting
 
 #full details
 author:
-    name: "Jane Meldrum"
-    avatar: "/img/blog-author-img.jpg"
+  name: "Jane Meldrum"
+  avatar: "/img/blog-author-img.jpg"
 
 gallery:
-    enabled: 1
-    items:
-        - image: /images/post1.jpg
-          alt: "image"
+  enabled: 1
+  items:
+    - image: /images/post1.jpg
+      alt: "image"
 
-        - image: /images/post6.jpg
-          alt: "image"
+    - image: /images/post6.jpg
+      alt: "image"
 
-        - image: /images/post3.jpg
-          alt: "image"
+    - image: /images/post3.jpg
+      alt: "image"
 
-    cols: 3 # 2 or 3
+  cols: 3 # 2 or 3
 
 additional:
-    enabled: 1
-    content: "
-        <h5>Voluptatem odit ullam veritatis</h5>
-        <p>Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.</p>
-    "
+  enabled: 1
+  content: |
+    <h5>Voluptatem odit ullam veritatis</h5>
+    <p>Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.</p>
 ---
 
 Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.

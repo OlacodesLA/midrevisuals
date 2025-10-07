@@ -27,17 +27,16 @@ accordion:
 
 additional:
   enabled: 1
-  content: "
+  content: |
     <h3>Highest Expectations</h3>
-		<p>When clients reach out to us for Brand Strategy & Creative Campaigns, they come with big dreams and high standards  and rightfully so. In a world full of noise, they're looking for clarity, creativity, and results. Below are some of the highest expectations people have when partnering with a creative agency like Midre Visuals  and we aim to exceed every one.</p>
-		<ul>
+    <p>When clients reach out to us for Brand Strategy & Creative Campaigns, they come with big dreams and high standards  and rightfully so. In a world full of noise, they're looking for clarity, creativity, and results. Below are some of the highest expectations people have when partnering with a creative agency like Midre Visuals  and we aim to exceed every one.</p>
+    <ul>
       <li>Clear, Cohesive Visual Identity</li>
       <li>High Engagement & Visibility</li>
       <li>Fresh & Creative Ideas</li>
       <li>Professional Execution</li>
       <li>Real Results & Impact</li>
-		</ul>
-  "
+    </ul>
 ---
 
 ### Brand Strategy & Creative Campaigns

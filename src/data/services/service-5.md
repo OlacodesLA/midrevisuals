@@ -27,18 +27,16 @@ accordion:
 
 additional:
   enabled: 1
-  content: "
+  content: |
     <h3>Highest Expectations</h3>
-		<p>Many brands, churches, and creative teams have strong ideas but without the right direction, those ideas can fall flat. That's where we come in. Through our Creative Direction service, we help you turn scattered thoughts into powerful visual stories. Here are some of the biggest problems we solve for our clients:</p>
-<ul>
-  <li>Concept Development</li>
-  <li>Discovery & Alignment</li>
-  <li>Collaboration & Communication</li>
-  <li>Creative Oversight</li>
-  <li>Final Delivery & Evaluation</li>
-</ul>
-
-  "
+    <p>Many brands, churches, and creative teams have strong ideas but without the right direction, those ideas can fall flat. That's where we come in. Through our Creative Direction service, we help you turn scattered thoughts into powerful visual stories. Here are some of the biggest problems we solve for our clients:</p>
+    <ul>
+      <li>Concept Development</li>
+      <li>Discovery & Alignment</li>
+      <li>Collaboration & Communication</li>
+      <li>Creative Oversight</li>
+      <li>Final Delivery & Evaluation</li>
+    </ul>
 ---
 
 ### Creative Direction
