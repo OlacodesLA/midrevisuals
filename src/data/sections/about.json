@@ -8,11 +8,13 @@
   "items": [
     {
       "title": "Our Mission",
-      "text": "Our mission is to create impactful visual content that connects with your audience and surpasses expectations. We tell compelling brand stories, deliver high-quality visuals, offer personalized service, and stay ahead of industry trends to ensure innovative results."
+      "text": "Our mission is to craft powerful visual content that connects with people, tells your brand’s story, and delivers fresh, innovative results."
     },
     {
-      "title": "Our Promise",
-      "text": "At Midre Visuals, we’re committed to understanding your vision, collaborating closely, and delivering creative, high-quality results that exceed expectations and ensure your satisfaction. We combine passion, precision, and innovation to bring your ideas to life and help your brand stand out.",
+      "title": "Our Vision",
+      "text": "To shape the future of visual storytelling by transforming ideas into visuals that inspire, tell unforgettable brand stories and set new standards for creativity and innovation."
+    },
+    {
       "button": {
         "label": "More About Us",
         "link": "/about"

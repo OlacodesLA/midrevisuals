@@ -45,7 +45,7 @@ const Contact = () => {
               {/* Heading */}
               <div className="onovo-text gap-bottom-40">
                 <h4>Send Us A Message</h4>
-                Then let us know about it and we can see what we can do to help
+                Tell us what you need, and we will make it happen.
               </div>
 
               {/* Form */}
@@ -239,7 +239,7 @@ const Contact = () => {
                       </ul>
                     </div>
                   </li>
-                  <li>
+                  {/* <li>
                     <h5>Houston</h5>
                     <div>
                       2001 N. Clybourn Avenue Suite 202, <br />
@@ -249,7 +249,7 @@ const Contact = () => {
                   <li>
                     <h5>Los Angeles</h5>
                     <div>2001 N. Clybourn Avenue Suite 202</div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -258,48 +258,6 @@ const Contact = () => {
       </section>
 
       {/* Onovo Faq */}
-      <section className="onovo-section gap-top-140">
-        <div className="container">
-          {/* Heading */}
-          <div className="onovo-heading align-center gap-bottom-40">
-            <div className="onovo-subtitle-1">
-              <span>{faqData.title}</span>
-            </div>
-            <h2 className="onovo-title-2">
-              <span dangerouslySetInnerHTML={{ __html: faqData.subtitle }} />
-            </h2>
-          </div>
-
-          {/* Faq items */}
-          <div className="onovo-faq-items">
-            <Accordion defaultActiveKey="faq-acc-0">
-              {faqData.items.map((item, key) => (
-                <Accordion.Item
-                  key={`faq-item-${key}`}
-                  eventKey={`faq-acc-${key}`}
-                >
-                  <div
-                    key={`faq-item-${key}`}
-                    className="onovo-faq-item onovo-collapse-item"
-                  >
-                    <Accordion.Header>
-                      <h5 className="title onovo-collapse-btn">
-                        <span>{item.title}</span>
-                        <i className="arrow" />
-                      </h5>
-                    </Accordion.Header>
-                    <Accordion.Body>
-                      <div className="onovo-text">
-                        <div dangerouslySetInnerHTML={{ __html: item.text }} />
-                      </div>
-                    </Accordion.Body>
-                  </div>
-                </Accordion.Item>
-              ))}
-            </Accordion>
-          </div>
-        </div>
-      </section>
     </Layouts>
   );
 };

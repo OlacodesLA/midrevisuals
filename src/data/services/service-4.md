@@ -3,7 +3,7 @@
 image: "/images/post3.jpg"
 icon: "/images/serv-icon3.png"
 title: "Motion Graphics & Video Ads"
-short: "We craft animated visuals and teaser videos that grab attention and leave a mark."
+short: "Where creativity meets motion to captivate audiences and elevate brands."
 
 #full details
 accordion:
@@ -44,8 +44,8 @@ additional:
   "
 ---
 
-### Behind the Visual Storytelling of High Calgary’s Community
+### Behind the Visual Storytelling of Midre Visuals
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+We understand that powerful storytelling is more than just visuals. It's about delivering on vision, time, and impact. Our creative team works with you to craft flexible, valuable solutions that align with your goals, no matter your industry or project scale
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
+With years of expertise, we bring clarity, creativity, and innovation to every project. Beyond storytelling, our experience equips us to support your broader brand needs, helping you connect, inspire, and grow with confidence.

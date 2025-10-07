@@ -42,6 +42,6 @@ additional:
 
 ### Brand Strategy & Creative Campaigns
 
-At Midre Visuals, we help you do more than just create content, we help you tell your **story** with **clarity**, **creativity**, and strategy. Our Brand Strategy & Creative Campaign service is built for brands, churches, and organizations looking to stand out with intentional visuals and messaging.
+We don’t just make content, we craft stories that stick. For brands, churches, and organizations ready to stand out, we build bold campaigns and consistent online identities that connect and spark impact.
 
 From planning your next big campaign to creating a cohesive online presence, we make sure your message not only looks good it connects.

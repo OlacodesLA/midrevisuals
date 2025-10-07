@@ -3,7 +3,7 @@
 image: "/images/service-5.jpg"
 icon: "/images/serv-icon5.png"
 title: "Creative Direction"
-short: "We create content calendars that keep your brand consistent and intentional."
+short: "We bring clarity, creativity and consistency to keep your brand focused and unforgettable."
 
 #full details
 accordion:

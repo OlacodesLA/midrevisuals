@@ -40,7 +40,7 @@ const About = (props) => {
     <Layouts>
       <PageBanner
         pageTitle={"About Us"}
-        pageDesc={"We Don’t Just Capture Moments — We Create Meaning."}
+        pageDesc={"We don’t just capture moments, we create memories."}
       />
 
       {/* Onovo About */}
@@ -56,18 +56,18 @@ const About = (props) => {
                 <h2 className="onovo-title-2">
                   <span>
                     {" "}
-                    We Are a Purpose-Driven Creative Agency <br />
-                    Helping You Tell Stories <br /> That Resonate and Last
+                    We are a creative agency with purpose,
+                    <br />
+                    bringing your stories to life with lasting impact.
                   </span>
                 </h2>
                 <div className="onovo-text">
                   <p>
-                    From the moment our company was founded, we have helped our
-                    clients find{" "}
-                    <strong>exceptional solutions for their businesses</strong>,
-                    creating memorable brands and digital products. Our
-                    expertise grows with each year, and our accumulated
-                    experience.{" "}
+                    From the moment our company was founded, we have worked with
+                    clients to transform ideas into bold brands and meaningful
+                    digital experiences. Each project fuels our growth,
+                    sharpening our craft and shaping visuals that leave a
+                    lasting mark.
                   </p>
                 </div>
               </div>
@@ -167,22 +167,20 @@ const About = (props) => {
               <h5 className="text-uppercase">Our Mission</h5>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-              From the moment our company was founded, we have helped our
-              clients find exceptional solutions for their businesses , creating
-              memorable brands and digital products. Our expertise grows with
-              each year, and our accumulated experience.
+              Our mission is to craft powerful visual content that connects with
+              people, tells your brand’s story, and delivers fresh, innovative
+              results.
             </div>
           </div>
 
           {/* Description */}
           <div className="row gap-top-60">
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-              <h5 className="text-uppercase">Our Goal</h5>
+              <h5 className="text-uppercase">What we do</h5>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-              Our goal is to deliver amazing experiences that make people talk,
-              and build strategic value for brands, tech, entertainment, arts
-              &amp; culture.
+              Creative direction; We bring clarity, creativity and consistency
+              to keep your brand focused and unforgettable.
             </div>
           </div>
 

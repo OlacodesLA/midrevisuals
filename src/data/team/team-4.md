@@ -1,7 +1,7 @@
 ---
 #preview details
 image: /images/tobiloba.png
-name: Okolodana Tobiloba
+name: Olokodana Tobiloba
 role: Content Strategist
 first_letter: E
 social:
