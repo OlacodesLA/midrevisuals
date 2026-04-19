@@ -19,6 +19,7 @@ import CountersSection from "@components/sections/Counters";
 import CallToActionSection from "@components/sections/CallToAction";
 import LatestPostsSection from "@components/sections/LatestPosts";
 import PartnersSection from "@components/sections/Partners";
+import Services2Section from "../components/sections/Services2";
 
 const HeroSection = dynamic(() => import("@components/sections/Hero"), {
   ssr: false,
@@ -43,7 +44,9 @@ const Home1 = (props) => {
         <ServicesSection />
         <AboutSection />
         <TickerSlider />
-        <ShowcaseSection projects={props.projects} />
+      {/* <Services2Section introHidden noPaddingBottom /> */}
+
+        {/* <ShowcaseSection projects={props.projects} /> */}
         <TeamSection team={props.team} />
         <TestimonialSlider />
         <VideoSection />
