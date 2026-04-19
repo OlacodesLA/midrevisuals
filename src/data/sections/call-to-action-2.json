@@ -6,8 +6,8 @@
     "social": [
         {
             "link": "https://twitter.com/",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
         },
         {
             "link": "https://linkedin.com/",
@@ -15,7 +15,7 @@
             "title": "LinkedIn"
         },
         {
-            "link": "https://facebook.com/",
+            "link": "https://facebook.com/share/18c29Q4bMk/?mibextid=wwXIfr/",
             "icon": "fab fa-behance",
             "title": "Behance"
         }

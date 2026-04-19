@@ -5,7 +5,7 @@ name: Adewale Oreoluwa
 role: Brand Designer
 first_letter: A
 social:
-  - link: https://facebook.com/
+  - link: https://facebook.com/share/18c29Q4bMk/?mibextid=wwXIfr/
     icon: fab fa-facebook-f
     title: Facebook
 

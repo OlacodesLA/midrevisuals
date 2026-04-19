@@ -5,7 +5,7 @@ name: Lina Watson
 role: Art Director
 first_letter: L
 social:
-  - link: https://facebook.com/
+  - link: https://facebook.com/share/18c29Q4bMk/?mibextid=wwXIfr/
     icon: fab fa-facebook-f
     title: Facebook
 

@@ -196,19 +196,14 @@
   },
   "social": [
     {
-      "link": "https://facebook.com",
+      "link": "https://facebook.com/share/18c29Q4bMk/?mibextid=wwXIfr",
       "icon": "fab fa-facebook",
       "title": "Facebook"
     },
     {
-      "link": "https://twitter.com",
-      "icon": "fab fa-twitter",
-      "title": "Twitter"
-    },
-    {
-      "link": "https://linkedin.com",
-      "icon": "fab fa-linkedin",
-      "title": "Linkedin"
+      "link": "https://instagram.com/midre_visual?igsh=dWx0MWU5Z3ZpemNy",
+      "icon": "fab fa-instagram",
+      "title": "Instagram"
     }
   ]
 }
